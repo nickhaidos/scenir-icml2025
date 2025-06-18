@@ -1,0 +1,8 @@
+torch_geometric==2.6.0
+dgl==1.1.2
+lapjv
+networkx
+torch==2.1.1
+scikit-learn
+numpy==1.26.1
+scipy
