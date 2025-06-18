@@ -1,0 +1,17 @@
+{
+    "epochs": 30,
+    "checkpoint_epoch_interval": 5,
+    "learning_rate": 0.001,
+    "encoder_lr_scheduler_gamma": 0.95,
+    "batch_size": 64,
+    "num_workers": 0,
+    "model_params": {
+        "embeddings_dim": 768,
+        "latent_dim": 1000,
+        "encoder_layers": 3,
+        "discriminator_hidden_dim": 32,
+        "edge_decoder_hidden_dim": 256,
+        "edge_decoder_out_dim": 32
+    },
+    "retrieval_k_ranks": [1, 5, 10, 20]
+}
