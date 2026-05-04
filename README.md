@@ -112,13 +112,16 @@ python compute_ged_scores.py \\
 If you find this repository and our paper useful in your research, please consider citing:
 
 ```bibtex
-@inproceedings{chaidos2025scenir,
-  title={SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval},
-  author={Chaidos, Nikolaos and Dimitriou, Angeliki and Lymperaiou, Maria and Stamou, Giorgos},
-  booktitle = {Proceedings of the 42nd International Conference on Machine Learning (ICML)},
-  year      = {2025},
-  publisher = {PMLR},
-  url       = {https://arxiv.org/abs/2505.15867v1},
+@inproceedings{10.5555/3780338.3780604,
+    author = {Chaidos, Nikolaos and Dimitriou, Angeliki and Lymperaiou, Maria and Stamou, Giorgos},
+    title = {SCENIR: visual semantic clarity through unsupervised scene graph retrieval},
+    year = {2025},
+    publisher = {JMLR.org},
+    booktitle = {Proceedings of the 42nd International Conference on Machine Learning},
+    articleno = {266},
+    numpages = {18},
+    location = {Vancouver, Canada},
+    series = {ICML'25}
 }
 ```
 
